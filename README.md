@@ -148,7 +148,8 @@ Feel free to fork this project and submit pull requests with improvements or new
 
 - Inspired by the classic Atari Asteroids arcade game
 
-- Built as a learning project for [boot.dev](boot.dev)
+- Built as a learning project for [boot.dev](https://boot.dev/)
+
 
 
 
