@@ -52,3 +52,16 @@ class Player(CircleShape):
             self.move(-1*dt)
         if keys[pygame.K_SPACE]:
             self.shoot()
+        
+        self.wrap_around_screen()
+
+    def wrap_around_screen(self):
+        if self.position.x > SCREEN_WIDTH:
+            self.position.x = 0
+        elif self.position.x < 0:
+            self.position.x = SCREEN_WIDTH
+    
+        if self.position.y > SCREEN_HEIGHT:
+            self.position.y = 0
+        elif self.position.y < 0:
+            self.position.y = SCREEN_HEIGHT
