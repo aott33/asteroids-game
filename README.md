@@ -124,7 +124,7 @@ asteroids-game/
 - [ ] Implement multiple lives and respawning
 - [ ] Add an explosion effect for the asteroids
 - [ ] Add acceleration to the player movement
-- [ ] Make the objects wrap around the screen instead of disappearing
+- [x] Make the objects wrap around the screen instead of disappearing (just player)
 - [ ] Add a background image
 - [ ] Create different weapon types
 - [ ] Make the asteroids lumpy instead of perfectly round
@@ -144,4 +144,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Inspired by the classic Atari Asteroids arcade game
+
 - Built as a learning project to explore game development with Python and Pygame
