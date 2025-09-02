@@ -120,6 +120,7 @@ asteroids-game/
 
 ## Todo
 
+- [ ] Add a menu (when game over, show game over then after 10s go to menu)
 - [ ] Add a scoring system
 - [ ] Implement multiple lives and respawning
 - [ ] Add an explosion effect for the asteroids
@@ -146,3 +147,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - Inspired by the classic Atari Asteroids arcade game
 
 - Built as a learning project to explore game development with Python and Pygame
+
