@@ -144,15 +144,11 @@ asteroids-game/
 
 Feel free to fork this project and submit pull requests with improvements or new features!
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Inspired by the classic Atari Asteroids arcade game
 
-- Built as a learning project to explore game development with Python and Pygame
+- Built as a learning project for [boot.dev](boot.dev)
 
 
 
