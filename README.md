@@ -12,7 +12,14 @@ A classic arcade-style asteroids game built with Python and Pygame. Navigate you
 
 ## Screenshots
 
-*Add screenshots of your game here*
+### Main Menu
+<img width="1356" height="817" alt="image" src="https://github.com/user-attachments/assets/afb595a1-472e-4c21-86f7-30b2ed7fb7e2" />
+
+### Game Play
+<img width="1356" height="817" alt="image" src="https://github.com/user-attachments/assets/6a9cb975-33d9-4f6c-9abb-73c7cff535b1" />
+
+### Game Over Screen
+<img width="1356" height="817" alt="image" src="https://github.com/user-attachments/assets/83cbb6e7-841a-4f8f-9db5-c42490fd56e5" />
 
 ## Installation
 
@@ -147,4 +154,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - Inspired by the classic Atari Asteroids arcade game
 
 - Built as a learning project to explore game development with Python and Pygame
+
 
